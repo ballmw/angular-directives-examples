@@ -15,10 +15,14 @@
     "grunt": "~0.4.1",
     "grunt-concat-sourcemap": "~0.3.0",
     "lineman": ">=0.11.6",
-    "coffee-script": "~1.6.3"
+    "coffee-script": "~1.6.3",
+    "grunt-aws":"0.2.5"
   },
   "engines": {
     "node": "~>0.10.5",
     "npm": "~>1.2.18"
+  },
+  "devDependencies": {
+    "grunt-aws": "~0.2.5"
   }
 }
